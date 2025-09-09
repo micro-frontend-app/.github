@@ -14,3 +14,4 @@
 微前端主应用。
 
 #### [mf-template](https://github.com/micro-frontend-app/mf-template)
+微前端子系统标准模板。
