@@ -1,4 +1,4 @@
-| 名称         | 描述     |
+| 项目         | 描述     |
 | ------------ | -------------- |
 | [started](https://github.com/micro-frontend-app/started) | 微前端的架构实践和思考。|
 | [simple-demo](https://github.com/micro-frontend-app/simple-demo) | 基于 Rsbuild + Module Federation 的新一代微前端架构生态平台，微前端的最佳实践。|
